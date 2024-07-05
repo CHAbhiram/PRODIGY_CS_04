@@ -12,11 +12,16 @@ Install the pynput Library:
 Ensure you have the pynput library installed. You can install it using pip if it's not already installed:
 $pip install pynput
 
-1)Open your terminal or command line.
-2)Navigate to the directory where your script is saved.
-3)Run the script:
+Step 1: Open your terminal or command line.
+
+Step 2: Navigate to the directory where your script is saved.
+
+Step 3: Run the script:
     python keylogger.py
-4)Press some keys to see the logging in action.
-5)Stop the script with Ctrl + C in the terminal.
-6)Open keyfile.txt to see the logged keys.
+    
+Step 4: Press some keys to see the logging in action.
+
+Step 5: Stop the script with Ctrl + C in the terminal.
+
+Step 6: Open keyfile.txt to see the logged keys.
 
